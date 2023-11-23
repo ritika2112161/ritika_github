@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hello !
 
 done with the day!
+=======
+hello there!
+
+Git demo
+>>>>>>> b5f9963dbda5a99155f8dd955750bd7ac5650219
